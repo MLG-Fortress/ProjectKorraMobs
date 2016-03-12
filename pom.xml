@@ -22,7 +22,7 @@
         <sourceDirectory>${project.basedir}/src/com/jedk1/projectkorra/menu</sourceDirectory>
         <!--currently in same folder as source files...-->
         <testSourceDirectory>${project.basedir}/tests/java</testSourceDirectory>
-        <finalName>ProjectKorraMobs</finalName>
+        <finalName>KorraMobs</finalName>
         <resources>
             <resource>
             <!-- Use plugin.yml in src directory-->
